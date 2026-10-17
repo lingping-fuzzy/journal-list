@@ -113,3 +113,7 @@ publicly released in this repository upon acceptance of the manuscript. A copy c
 the editors and reviewers on request before publication.
 
 
+## 6. Representation family focus
+Figure 1 summarizes, over the labelled subset, which operation is most heavily used within each representation family.
+![Geometry mechanism matrix](images/geometry-mechanism-matrix.jpeg)
+
