@@ -119,3 +119,7 @@ Figure 1 summarizes, over the labelled subset, which operation is most heavily u
 
 Figure 2 shows, Year-wise distribution of the core manifold$\times$fusion corpus (765 papers). The 2026 window is partial and ends on the search closing date (Aug. 1); the seventh application domain, agriculture, is documented from works collected outside the corpus (section~3(i)) and is not plotted.
 ![Year-wise distribution](images/fig_year_trend.png)
+
+## 7. Tables. 
+
+Our comprehensive survey includes specialized reference tables detailing data modalities, manifold representations, and learning mechanisms across various domains: [Clinical Healthcare & 3D Geometry](#), [NLP & Video Temporal Analysis](#), and [Remote Sensing & Precision Agriculture](#). These appendices outline foundational domain contexts, mapping how specific representation families map to specialized real-world applications.
