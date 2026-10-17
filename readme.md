@@ -117,3 +117,5 @@ the editors and reviewers on request before publication.
 Figure 1 summarizes, over the labelled subset, which operation is most heavily used within each representation family.
 ![Geometry mechanism matrix](images/geometry-mechanism-matrix.jpeg)
 
+Figure 2 shows, Year-wise distribution of the core manifold$\times$fusion corpus (765 papers). The 2026 window is partial and ends on the search closing date (Aug. 1); the seventh application domain, agriculture, is documented from works collected outside the corpus (section~3(i)) and is not plotted.
+![Year-wise distribution](images/fig_year_trend.png)
