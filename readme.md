@@ -123,7 +123,7 @@ Figure 2 shows, Year-wise distribution of the core manifold$\times$fusion corpus
 ## 7. Tables. Applications of Manifold Methods and Geometric Information Fusion Across Domains
 
 Our comprehensive survey includes specialized reference tables detailing data modalities, manifold representations, and learning mechanisms across various domains: [Clinical Healthcare & 3D Geometry](#), [NLP & Video Temporal Analysis](#), and [Remote Sensing & Precision Agriculture](#). These appendices outline foundational domain contexts, mapping how specific representation families map to specialized real-world applications.
-
+Comprehensive taxonomies detailing data characteristics, geometric representations and modeling frameworks, and learning and fusion mechanisms across the surveyed domains (including healthcare, 3D vision, language and multimodal learning, video, remote sensing, robotics, and agriculture) are compiled here and also mentioned in Section 5.
 
 | Application domain | Data characteristics and geometric motivation | Geometric representation | Fusion strategy and level | Applications and evaluation |
 |---|---|---|---|---|
