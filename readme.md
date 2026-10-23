@@ -96,12 +96,11 @@ These four venues never contributed to any count reported in the manuscript.
 
 | Stage | Result |
 |-------|--------|
-| 1. Venue and period selection | 56 venues searched (50 journals + 6 conferences); 46 contributed to the pool (40 journals + 6 conferences, see §2) |
-| 2. Geometry-relevance screening | 7,006 records → 6,434 unique papers (3,383 journal / 3,051 conference) |
-| 3. Fusion-relevance screening | 828 fusion-related papers (12.9%; 404 journal / 424 conference) |
-| 4. Scope filter (dimensionality-reduction-only papers removed) | 765 core manifold×fusion papers (345 journal / 420 conference) |
-| 5. Three-axis labelling | one primary label per axis (representation × mechanism × application) |
-| 6. Representative selection | 731 subsection assignments → **432 unique representative works**, of which 200+ are cited in the bibliography |
+| 1. Venue and period selection | 56 venues searched (50 journals + 6 conferences); 46 contributed to the pool (40 journals + 6 conferences, see §2). Provenance only. |
+| 2. Fusion-screened pool (reproducible starting point) | **828** fusion-screened papers (404 journal / 424 conference), released as a record table with three-axis labels |
+| 3. Scope filter | 63 removed (dimensionality-reduction-only work and methods that only concatenate features in Euclidean space) → **765** core manifold×fusion papers (345 journal / 420 conference); reproduced by the `dimred_only` column |
+| 4. Three-axis labelling | one primary label per axis (representation × mechanism × application) |
+| 5. Representative selection | 731 group assignments → **432 unique representative works**, of which 200+ are cited in the bibliography |
 
 ## 5. Data and code availability
 
