@@ -169,3 +169,99 @@ Comprehensive taxonomies detailing data characteristics, geometric representatio
 
 ---
 Citation keys used in the table above can be found in the [references.md](references.md) file.
+
+## 8. Manifold & Geometric Fusion (15)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion | CVPR 2023 | [sijieaaa/HypLiLoc](https://github.com/sijieaaa/HypLiLoc) | `repo desc` |
+| GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion | Information Fusion 2026 | [Shaoyun2023/GrFormer](https://github.com/Shaoyun2023/GrFormer) | `repo desc` |
+| SMLNet: A SPD Manifold Learning Network for Infrared and Visible Image Fusion | IJCV 2025 | [Shaoyun2023/SMLNet](https://github.com/Shaoyun2023/SMLNet) | `repo desc` |
+| OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models | CVPR 2026 | [ControlGenAI/OrthoFuse](https://github.com/ControlGenAI/OrthoFuse) | `repo desc` |
+| Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs | CIKM 2023 | [lijlin26/SHAN](https://github.com/lijlin26/SHAN) | `repo desc` |
+| Deep Subspace Fusion Based on Integrated Self-Supervision for Cancer Subtype Identification | — | [DLSFIS/DSFIS](https://github.com/DLSFIS/DSFIS) | `repo desc` |
+| Triple Spectral Fusion for Sensor-based Human Activity Recognition | TPAMI 2026 | [crocodilegogogo/TSF-TPAMI2026](https://github.com/crocodilegogogo/TSF-TPAMI2026) | `repo desc` |
+| Scalable Sparse Spectral Fusion Clustering for Multi-Manifold Data | — | [mtr3t/s3fc](https://github.com/mtr3t/s3fc) | `repo desc` |
+| Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering | CVPR 2026 | [bingly/MCSF](https://github.com/bingly/MCSF) | `repo desc` |
+| Projection-Manifold Regularized Latent Diffusion for Robust General Image Fusion | NeurIPS 2025 | [Leiii-Cao/PDFuse](https://github.com/Leiii-Cao/PDFuse) | `repo desc` |
+| Multi-view Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion | — | [2391134843/MRME-KGC](https://github.com/2391134843/MRME-KGC) | `repo desc` |
+| (Supervised graph diffusion and fusion — no title stated) | — | [basiralab/SM-netFusion-PY](https://github.com/basiralab/SM-netFusion-PY) | `code only` |
+| (Manifold-based data fusion — MATLAB implementation) | — | [Jingliang-Hu/manifold-data-fusion](https://github.com/Jingliang-Hu/manifold-data-fusion) | `code only` |
+| (Orthogonal manifold fusion — notebooks) | — | [rahulraj1406/orthogonal-manifold-fusion](https://github.com/rahulraj1406/orthogonal-manifold-fusion) | `code only` |
+| (Meta-Fusion VAE for multi-view manifold learning of 3D shapes) | — | [Priyanshu8011/Multi-View-Meta-Fusion-Manifold-Learning-3D-Shapes-DL](https://github.com/Priyanshu8011/Multi-View-Meta-Fusion-Manifold-Learning-3D-Shapes-DL) | `code only` |
+
+# Similarity Network Fusion (SNF) & Network Fusion (12)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| Similarity Network Fusion for Aggregating Data Types on a Genomic Scale | Nature Methods 2014 (doi:10.1038/nmeth.2810) | [grisaitis/similarity-network-fusion](https://github.com/grisaitis/similarity-network-fusion) | `repo desc` |
+| Non-Parametric Network Fusion | — | [stevexniu/FuseNet](https://github.com/stevexniu/FuseNet) | `repo desc` |
+| A Metagene Based Similarity Network Fusion Approach for Multi-Omics Data Integration | — | [CongcongJia/Meta-SNF](https://github.com/CongcongJia/Meta-SNF) | `repo desc` |
+| Similarity Network Fusion for Aggregating Data Types on a Genomic Scale (algorithm implemented) | Nature Methods 2014 | [rmarkello/snfpy](https://github.com/rmarkello/snfpy) | `inferred` |
+| Similarity Network Fusion for Aggregating Data Types on a Genomic Scale (original R package) | Nature Methods 2014 | [cran/SNFtool](https://github.com/cran/SNFtool) | `inferred` |
+| Similarity Network Fusion for Aggregating Data Types on a Genomic Scale (Python package) | Nature Methods 2014 | [xinchoubiology/SNFtools](https://github.com/xinchoubiology/SNFtools) | `inferred` |
+| Similarity Network Fusion for Aggregating Data Types on a Genomic Scale (Python adaptation) | Nature Methods 2014 | [AICONSlab/snf](https://github.com/AICONSlab/snf) | `inferred` |
+| Scalable Subtyping with Similarity Network Fusion | — | [BRANCHlab/metasnf](https://github.com/BRANCHlab/metasnf) | `inferred` |
+| (Similarity Network Fusion for clean self-similarity matrices in audio) | — | [ctralie/GraphDitty](https://github.com/ctralie/GraphDitty) | `code only` |
+| (Multi-omics integration via SNF + graph neural networks) | — | [DrSeed/multiomics-network-integration](https://github.com/DrSeed/multiomics-network-integration) | `code only` |
+| (Benchmark of SNF for multi-omics integration / TCGA-BRCA survival) | — | [tahagill/multiomics-graph-integration-benchmark](https://github.com/tahagill/multiomics-graph-integration-benchmark) | `code only` |
+| (Multiview SNF framework for ordering amino acids) | — | [yusungok/amino-multiview](https://github.com/yusungok/amino-multiview) | `code only` |
+
+# Multi-View & Contrastive Fusion Clustering (5)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| Self-weighted Contrastive Fusion for Deep Multi-view Clustering | IEEE TMM | [SongwuJob/SCMVC](https://github.com/SongwuJob/SCMVC) | `repo desc` |
+| Incomplete Multi-view Clustering via Diffusion Contrastive Generation | AAAI 2025 | [zhangyuanyang21/2025-AAAI-DCG](https://github.com/zhangyuanyang21/2025-AAAI-DCG) | `repo desc` |
+| CONAN: Contrastive Fusion Networks for Multi-view Clustering | AAAI 2022 | [Guanzhou-Ke/conan](https://github.com/Guanzhou-Ke/conan) | `repo desc` |
+| Generalized Incomplete Multi-view Clustering With Flexible Locality Structure Diffusion | — | [ckghostwj/Generalized-Incomplete-Multi-view-Clustering-With-Flexible-Locality-Structure-Diffusion](https://github.com/ckghostwj/Generalized-Incomplete-Multi-view-Clustering-With-Flexible-Locality-Structure-Diffusion) | `repo desc` |
+| RTGD-MVC: Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering | — | [Sean2CS/RTGD-MVC](https://github.com/Sean2CS/RTGD-MVC) | `repo desc` |
+
+# Graph Fusion & Multi-Graph Integration (6)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| MGFN: Multi-Graph Fusion Networks for Urban Region Embedding | IJCAI 2022 | [wushangbin/MGFN](https://github.com/wushangbin/MGFN) | `repo desc` |
+| Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance | — | [TransformersWsz/UMGF](https://github.com/TransformersWsz/UMGF) | `repo desc` |
+| Modality to Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion | — | [TmacMai/ARGF_multimodal_fusion](https://github.com/TmacMai/ARGF_multimodal_fusion) | `repo desc` |
+| Affinity Fusion Graph-based Framework for Natural Image Segmentation | — | [Yangzhangcst/AF-graph](https://github.com/Yangzhangcst/AF-graph) | `repo desc` |
+| SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences | CVPR 2021 | [ShunChengWu/SceneGraphFusion](https://github.com/ShunChengWu/SceneGraphFusion) | `inferred` |
+| StereoMM: a graph fusion model integrating gene expression and histological images for spatial transcriptomics | — | [STOmics/StereoMMv1](https://github.com/STOmics/StereoMMv1) | `inferred` |
+
+## Kernel & Multi-Omics Fusion (5)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| Survival-Informed Multi-Omics Kernel Fusion for Cancer Subtyping | IEEE TCBB 2025 | [XiaojianDing/TCBB-SIMKF](https://github.com/XiaojianDing/TCBB-SIMKF) | `repo desc` |
+| Multimodality Fusion Subtyping | Nature Communications 2024 | [Zaoqu-Liu/MOFS](https://github.com/Zaoqu-Liu/MOFS) | `repo desc` |
+| Kernelized Logistic Matrix Factorization based on Similarity Network Fusion for Predicting Virus-host Association | — | [liudan111/ILMF-VH](https://github.com/liudan111/ILMF-VH) | `repo desc` |
+| (R toolkit for multi-omics data fusion and visualization) | — | [SSSYDYSSS/TransProR](https://github.com/SSSYDYSSS/TransProR) | `code only` |
+| (PyDI: framework for end-to-end data integration and fusion) | — | [wbsg-uni-mannheim/PyDI](https://github.com/wbsg-uni-mannheim/PyDI) | `code only` |
+
+# Deep Multimodal Fusion (6)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| Dataset-Asynchronous Trajectory Matching-based Multimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways | IEEE TITS 2023 | [gy65896/FVessel](https://github.com/gy65896/FVessel) | `repo desc` |
+| Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks | IEEE JBHI 2024 | [j-morano/multimodal-fusion-fpn](https://github.com/j-morano/multimodal-fusion-fpn) | `repo desc` |
+| Multimodal Sentiment Analysis Using Hierarchical Fusion with Context Modeling | Neurocomputing 2018 | [declare-lab/hfusion](https://github.com/declare-lab/hfusion) | `inferred` |
+| (Remote-sensing fusion dataset fetcher/benchmark utilities) | — | [songyz2019/rs-fusion-datasets](https://github.com/songyz2019/rs-fusion-datasets) | `code only` |
+| (Bayesian neural networks for multimodal AUV data fusion) | — | [sams-tom/Multimodal-AUV](https://github.com/sams-tom/Multimodal-AUV) | `code only` |
+| (HyperSTARS: hyperspectral spatial-timeseries multi-sensor data fusion package) | — | [STARS-Data-Fusion/HyperSTARS.jl](https://github.com/STARS-Data-Fusion/HyperSTARS.jl) | `code only` |
+
+# Fusion Surveys, Zoos & Lists (7)
+
+| Paper title | Venue / Year | Repo | Status |
+|---|---|---|---|
+| Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities | ACM Computing Surveys 2026 | [EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications) | `repo desc` |
+| Infrared and Visible Image Fusion: From Data Compatibility to Task Adaptation (survey) | — | [RollingPlain/IVIF_ZOO](https://github.com/RollingPlain/IVIF_ZOO) | `repo desc` |
+| Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications (systematic review) | IVC 2025 | [cosbidev/Intermediate-Multimodal-Fusion-Bio](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio) | `repo desc` |
+| (Collection of deep-learning RGB-T fusion methods, codes and datasets) | — | [yuanmaoxun/Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) | `code only` |
+| (CCF ADL 2019 slides for knowledge graph fusion) | — | [nju-websoft/KnowledgeGraphFusion](https://github.com/nju-websoft/KnowledgeGraphFusion) | `code only` |
+| (Benchmarking of hyperspectral image fusion methods) | — | [magamig/hif-benchmarking](https://github.com/magamig/hif-benchmarking) | `code only` |
+| (Collection of reproduced hyperspectral / multispectral image fusion methods) | — | [Ruijie2580/Collection-of-hyperspectral-and-multispectral-image-fusion-methods](https://github.com/Ruijie2580/Collection-of-hyperspectral-and-multispectral-image-fusion-methods) | `code only` |
+
+---
+
+**Notes**
+- Titles in parentheses are informal descriptors for resources with no stated paper; the repos remain useful as implementations/datasets.
